@@ -29,4 +29,5 @@ strong > fue un exito rotundo.</p>
 `);
 });
 app.listen(port , () => {
-console.
+console.log(`Servidor iniciado y escuchando ...`);
+});
